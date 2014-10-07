@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# macoyact4
+#
+
+projectname: macoyact4
+vendorid: com.macoy
+mainmodule: com.macoy.macoyact4
